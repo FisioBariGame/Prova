@@ -21,5 +21,8 @@ Modifiche ciao
 
 Tentativo 3
 
+<<<<<<< HEAD
 modifiche master
+=======
 modifiche ciao
+>>>>>>> Ciao
