@@ -12,4 +12,6 @@ ciao
 
 Tentatico 2
 
-Modifiche master
+<<<<<<< HEAD
+=======
+>>>>>>> Ciao
